@@ -32,7 +32,6 @@
 - [X / Twitter](https://x.com/NabodayaS2006)
 - GitHub: [@nabodaya123](https://github.com/nabodaya123)
 
-> YouTube and Topmate links were not supplied, so they are intentionally omitted. Verified metrics are omitted until a value and date are provided.
 
 ---
 
