@@ -9,15 +9,15 @@
 
 </div>
 
-![Profile hero](assets/hero.svg)
+![Profile hero](./hero.svg)
 
-![About and interests](assets/about-life.svg)
+![About and interests](./about-life.svg)
 
-![Technology stack](assets/stack.svg)
+![Technology stack](./stack.svg)
 
-![ID dashboard](assets/id-dashboard.svg)
+![ID dashboard](./id-dashboard.svg)
 
-![Connect with me](assets/connect.svg)
+![Connect with me](./connect.svg)
 
 ## Projects
 
