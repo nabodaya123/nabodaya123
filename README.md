@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Nabodaya Sahu
 
 **Aspiring Software Engineer · AI/ML & Full-Stack Developer**
@@ -18,6 +17,12 @@
 ![ID dashboard](./id-dashboard.svg)
 
 ![Connect with me](./connect.svg)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## Projects
 
