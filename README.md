@@ -32,7 +32,7 @@
 
 ## Connect
 
-[![Nabodaya Instagram](https://img.shields.io/badge/Instagram-Nabodaya%20Sahu-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nabodaya_06?obrf=NW1mb3Rrb215amdu)[![Nabodaya Facebook](https://img.shields.io/badge/Facebook-Nabodaya%20Sahu-blue?logo=facebook&logoColor=white)](https://www.facebook.com/nabodaya.sahu) [![Nabodaya Twitter](https://img.shields.io/badge/Twitter-Nabodaya%20Sahu-lightblue?logo=twitter&logoColor=white)](https://x.com/NabodayaS2006)[![Nabodaya LinkedIn](https://img.shields.io/badge/LinkedIn-Nabodaya%20Sahu-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabodaya-sahu-904a41340)[![Nabodaya GitHub](https://img.shields.io/badge/GitHub-nabodaya123-black?logo=github&logoColor=white)](https://github.com/nabodaya123)
+[![Nabodaya Instagram](https://img.shields.io/badge/Instagram-nabodaya%20_06-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nabodaya_06?obrf=NW1mb3Rrb215amdu)  [![Nabodaya Facebook](https://img.shields.io/badge/Facebook-Nabodaya%20Sahu-blue?logo=facebook&logoColor=white)](https://www.facebook.com/nabodaya.sahu)  [![Nabodaya Twitter](https://img.shields.io/badge/Twitter-Nabodaya%20Sahu-lightblue?logo=twitter&logoColor=white)](https://x.com/NabodayaS2006)  [![Nabodaya LinkedIn](https://img.shields.io/badge/LinkedIn-Nabodaya%20Sahu-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabodaya-sahu-904a41340)
 
 
 
